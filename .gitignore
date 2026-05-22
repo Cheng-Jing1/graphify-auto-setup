@@ -1,0 +1,9 @@
+# Graphify 输出
+graphify-out/
+.graphify_*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
